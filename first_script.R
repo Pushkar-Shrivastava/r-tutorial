@@ -1,6 +1,6 @@
-# this is a comment.
-# this is the only way to achieve multi-line commens.
-# hotkey for `#` is ctrl + shift + c
+#this is a comment.
+"this is the way to achieve multi-line commens. simply write comments in quates
+ hotkey for `#` is ctrl + shift + c"
 10+20
 50+60+1000
 1:50  # to create a series
