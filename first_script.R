@@ -1,7 +1,7 @@
 #this is a comment.
 "this is the way to achieve multi-line commens. simply write comments in quates
  hotkey for `#` is ctrl + shift + c"
-10+20
+10+20 # use control+enter and r will give your the result of script in console.
 50+60+1000
 1:50  # to create a series
 print("welcome to scholl of BFSI") # to print something.
